@@ -14,6 +14,6 @@ git clone https://github.com/redes-202310/lab2-files
 ```
 
 # Contribuyentes
-- Mariana Díaz
-- Maria Castro
-- Juan Yepes
+- [Mariana Díaz](https://github.com/marianadiaz179)
+- [Maria Castro](https://github.com/mar-cas3)
+- [Juan Yepes](https://github.com/juanyepesp)
