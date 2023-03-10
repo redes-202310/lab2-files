@@ -3,6 +3,7 @@ Este repositorio contiene los archivos relacionados con las prácticas de labora
 
 # Archivos incluidos
 imagenes: Capturas de pantalla relevantes para el informe
+
 pcapng wireshark: Archivos de wireshark que permiten ver una captura de tráfico determinada
 
 # Cómo usar
