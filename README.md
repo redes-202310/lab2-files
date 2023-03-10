@@ -8,9 +8,8 @@ pcapng wireshark: Archivos de wireshark que permiten ver una captura de tráfico
 
 # Cómo usar
 Los archivos pueden ser descargados individualmente o clonando el repositorio completo. Para descargar un archivo en particular, simplemente haga clic en el nombre del archivo y luego en el botón "Download". Para clonar el repositorio completo, ejecute el siguiente comando en su terminal:
+
 ```
-bash
-Copy code
 git clone https://github.com/redes-202310/lab2-files
 ```
 
