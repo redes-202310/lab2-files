@@ -1,7 +1,7 @@
 # Repositorio de laboratorio
-Este repositorio contiene los archivos relacionados con las prácticas de laboratorio del grupo conformado por Mariana Díaz, Maria Castro y Juan Yepes.
+Este repositorio contiene los archivos relacionados con las segunda práctica de laboratorio del curso ISIS3204 - Infraestructura de Comunicaciones del grupo conformado por Mariana Díaz, Maria Castro y Juan Yepes. (Grupo 2 Sección 6)
 
-# Archivos incluidos
+# Directorios incluidos
 imagenes: Capturas de pantalla relevantes para el informe
 
 pcapng wireshark: Archivos de wireshark que permiten ver una captura de tráfico determinada
